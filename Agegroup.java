@@ -14,7 +14,7 @@ class Agegroup{
 	System.out.println("Adult");
 }
 	else if(age>=65){
-	System.out.println("Adult");
+	System.out.println("Senior");
 }
 	else{
 	System.out.println("Sorry please try again");
