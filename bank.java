@@ -1,3 +1,11 @@
+//Create a virtual banking s/m using switch case ask the choices from the user and based on the choices implement the banking operations.if the user enter one user is able to deposite the amount.if the user enters two then show the balance.if the user enters 
+//three then implement withdrawal.
+
+
+
+
+
+
 import java.util.Scanner;
 class bank{
 	public static void main(String[] args){
